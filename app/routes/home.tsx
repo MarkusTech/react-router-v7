@@ -3,7 +3,7 @@ import type { Route } from "./+types/home";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "RESTExplorer" },
+    { title: "WMRExplorer" },
     { name: "Check out country data!", content: "Welcome to RESTExplorer." },
   ];
 }
